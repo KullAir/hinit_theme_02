@@ -1,0 +1,50 @@
+
+
+.col-xl-5ths {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 20%;
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+
+
+/****************************
+
+    Pages and Posts
+
+*****************************/
+
+
+.page-template-page-contact-us{
+    #full-width-page-wrapper{
+                
+        padding-bottom: 30px;
+
+        &:before{
+
+            width:50%;
+            height: 100%;
+        }
+    }
+}
+
+.page-template-homepage{
+    .main-container{
+
+
+        
+        .content-video-wrap{
+            
+        
+            width:520px;
+        
+        }
+
+        
+    }
+
+    #main-services{
+        background-size: cover;
+        background-position-x:0;
+    }
+}

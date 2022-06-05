@@ -1,0 +1,106 @@
+
+
+
+/************ Header *****************/
+
+
+.navbar>.container{
+  
+    max-width: 1280px;
+}
+
+.call-us-div{
+    max-width: 1280px;
+
+}
+
+/*****************************
+
+    Pages and Posts
+
+*****************************/
+
+.page-template-homepage{
+
+    #hebo{ 
+       
+        // 
+         
+ 
+         .post-thumb-wrap{
+ 
+             
+            // max-height: 600px;
+           
+             
+ 
+ 
+         }
+     }
+
+    .section{
+        .container{
+            max-width: 1280px;
+        }
+    }
+}
+
+
+
+.page-template-page-candidates{
+
+
+    #hebo{
+      
+ 
+        .post-thumb-wrap{
+            max-height: 570px;
+            
+            img{
+                width:100%;
+            
+            }
+ 
+         }
+ 
+         
+    }
+}
+
+
+.page-template-page-about{
+    #hebo{
+        .post-thumb-wrap{
+            max-height: 650px;
+        }
+    }
+
+   
+        #about-process,
+        #secound-content{
+            .content-deco-img{
+                min-height: 420px;
+            }
+        }
+    
+}
+
+.page-template-page-team{
+    .container.content-area,
+    #team-list .container{
+        max-width: 1360px;
+    }
+}
+
+/*****************************
+
+        Footer
+
+*****************************/
+#wrapper-footer-full,
+#wrapper-footer{
+    &>.container{
+  
+        max-width: 1280px;
+    }
+}
